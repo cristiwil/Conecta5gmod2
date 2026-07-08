@@ -1,5 +1,5 @@
 {
-    "Version": 35,
+    "Version": 36,
     "PainelConecta5G": false,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "UrlUpdate": "https://raw.githubusercontent.com/cristiwil/Conecta5gmod2/2cb0f03d04ff1db4bc0034dde80a68a5399a0b2b/config.json",
@@ -34,7 +34,7 @@
     ],
     "Servers": [
         {
-            "Name": "SEMOG BRASIL",
+            "Name": "SEMOG BR",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "mat.itech2.uk",
